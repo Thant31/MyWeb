@@ -163,7 +163,7 @@ margin-left: -10px;
    
             background-color: hsl(187, 100%, 98%);
           }
-        }
+        
         .Bmps a{
             position: relative;
             left: -30px;
@@ -173,7 +173,7 @@ margin-left: -10px;
             left: -20px;
         }
         .Bmps .a i{
-            position: relative;
+           position: relative;
             float: right;
             right: -30px;
          
@@ -189,9 +189,7 @@ margin-left: -10px;
 
         }
         .scul li{
-            margin-left: 50px;
+            margin-left: 40px;
             display:inline-block;
         }
-}
-
-
+    }
