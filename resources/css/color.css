@@ -379,18 +379,13 @@ overflow: hidden;
   
 }
 .Bmps:hover{
-  transform: translateX(3%);
+  
  transition:0.9s ;
-  border-radius: 2px;
-  box-shadow:1px 1px 1px 1px #F6FEFF;
-  margin-left: 30px;
-  padding: 20px 30px;
-  border: 1px solid #F6FEFF;
-  background-color: hsl(187, 100%, 98%);
+background-color: hsl(187, 100%, 98%);
 }
 
 .Bmps a{
-  
+  color:rgb(200, 243, 248);
    margin-left: 30px;
   text-decoration: none;
   color: rgb(27, 24, 24);
@@ -455,13 +450,9 @@ overflow: hidden;
 }
 
 .line:hover{
-  transform: translateX(10px);
+ 
   transition: 0.9s ;
-   border-radius: 2px;
-   box-shadow:1px 1px 1px 1px #F6FEFF;
-   margin-left: 30px;
-   padding: 20px 30px;
-   border: 1px solid #F6FEFF;
+   
    background-color: hsl(187, 100%, 98%);
  }
  .line a{
