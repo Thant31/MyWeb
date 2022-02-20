@@ -113,6 +113,7 @@ margin-left: -10px;
 }
 }
 @media only screen and (max-width:370px){
+   
     
     .map{
         right: 190px;
@@ -139,6 +140,45 @@ margin-left: -10px;
         }
         h5{
             top: 130px;
+        }
+        .Bmps{
+            width: 130%;
+            position: relative;
+            left: -35px;
+            border: 1px solid red;
+        }
+        .line{
+            width: 130%;
+            position: relative;
+            left: -35px;
+        }
+        .Bmps a{
+            position: relative;
+            left: -30px;
+        }
+        .line a{
+            position: relative;
+            left: -20px;
+        }
+        .Bmps .a i{
+            position: relative;
+            float: right;
+            right: -30px;
+         
+            top: -20px;
+
+        }
+        .line .a i{
+            position: relative;
+            float: right;
+            right: -45px;
+           
+            top: -20px;
+
+        }
+        .scul li{
+            margin-left: 50px;
+            display:inline-block;
         }
 }
 
