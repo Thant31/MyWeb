@@ -112,5 +112,34 @@ margin-left: -10px;
     height: 100%;
 }
 }
+@media only screen and (max-width:370px){
+    
+    .map{
+        right: 190px;
+        overflow: hidden;
+    }
+    .map1{
+        right: -20px;
+        overflow: hidden;
+    }
+    .j{
+        position: relative;
+      left: -25px;
+        }
+        .logo li{
+            display: block;
+            margin: 10px;
+        }
+        .ul li{
+            position: relative;
+            display: inline-block;
+            float: right;
+        top: -180px;
+           
+        }
+        h5{
+            top: 130px;
+        }
+}
 
 
