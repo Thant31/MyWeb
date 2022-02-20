@@ -145,12 +145,24 @@ margin-left: -10px;
             width: 130%;
             position: relative;
             left: -35px;
-            border: 1px solid red;
+           
+        }
+        .Bmps:hover,
+        .Bmps:active{
+            transition:0.9s ;
+            background-color: hsl(187, 100%, 98%);
         }
         .line{
             width: 130%;
             position: relative;
             left: -35px;
+        }
+        .line:hover,
+        .line:active{
+            transition: 0.9s ;
+   
+            background-color: hsl(187, 100%, 98%);
+          }
         }
         .Bmps a{
             position: relative;
