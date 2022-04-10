@@ -1,0 +1,123 @@
+
+
+@media only screen and (max-width:1200px) {
+    .na{
+        height: 120px;
+    }
+
+}
+@media only screen and (max-width:1023px) {
+  
+  .parar{
+      margin: 10px 10px;
+      padding: 0;
+
+  }
+     .number p{
+  display: block;
+  margin: 0px 50px;
+ 
+}
+.j{
+margin-left: 270px;
+}
+     .map{
+      
+      right: 190px;
+      
+     }
+     .map1{
+      
+      right: 190px;
+      
+     }
+     .ll{
+ 
+        width:84%;
+        height: 2px;
+       margin: 20px 20px;
+       background-color: #FF0000;
+        
+      }
+      .pp{
+        margin: 20px;
+      
+      }
+      button{
+          left: 70px;
+          margin-bottom: 20px;
+      }
+      .logo li{
+         margin: 0px 10px;
+      }
+}
+@media only screen and (max-width:767px) {
+    .map1{
+        right: 80px;
+    }
+    .map{
+        right: 450px;
+    }
+   .j{
+       margin-left: 130px;
+   }
+   .Bmps{
+      margin-bottom: 40px;
+   }
+   .line {
+    margin-top: 40px;
+     width: 97%;
+   
+   }
+   .na{
+       width: 80%;
+   }
+
+}
+@media only screen and (max-width:480px) {
+.g{
+    padding: 20px;
+}
+.map1{
+    right: -10px;
+    overflow: hidden;
+}
+.map{
+    right: 260px;
+    overflow: hidden;
+}
+ .j{
+margin-left: -10px;
+}
+
+.ul li{
+   float: left;
+   margin: 10px;
+   display:inline-block;
+   position: relative;
+  top: -50px;
+  font-size: large;
+
+  }
+  h5{
+ top: 60px;
+  }
+  .line {
+    margin-top: 40px;
+     width: 95%;
+   
+   }
+   .na{
+    width: 100%;
+    height: 100%;
+   }
+   .main,.t2{
+       display: none;
+   }
+   .j{
+       background-color: #fff;
+   }
+   #se2{
+       background-color: #fff;
+   }
+}
